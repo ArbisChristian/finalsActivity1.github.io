@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finalsActivty1.github.io/static/css/main.e28b59ad.css",
+    "main.js": "/finalsActivty1.github.io/static/js/main.6c56ac90.js",
+    "index.html": "/finalsActivty1.github.io/index.html",
+    "main.e28b59ad.css.map": "/finalsActivty1.github.io/static/css/main.e28b59ad.css.map",
+    "main.6c56ac90.js.map": "/finalsActivty1.github.io/static/js/main.6c56ac90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e28b59ad.css",
+    "static/js/main.6c56ac90.js"
+  ]
+}
